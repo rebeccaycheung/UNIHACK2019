@@ -5,7 +5,7 @@ These massive group of people went on strike because they feel disenfranchised a
 
 ecoEats gives power back to the invidivuals by making it easier for them to eat in a more eco-friendly manner by rewaarding them for each purchase.
 
-We believe we all share this responsibility of being sustainable, particularly businesses, which is our primary target. 
+We believe we all share this responsibility of being sustainable, particularly businesses, who are our primary targets. 
 
 By establishing partnerships with cafes and restaurants, they can increase their consumer base and reputation — all by leveraging our gamified platform. They are encouraged to be sustainable, fulfil KPIs and improve their business’ image all while fulfilling their corporate social responsibilites.
 
