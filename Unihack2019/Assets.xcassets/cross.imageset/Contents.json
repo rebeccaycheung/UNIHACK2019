@@ -2,17 +2,17 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "white_hamburger.png",
+      "filename" : "cross.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "white_hamburger-1.png",
+      "filename" : "cross-1.png",
       "scale" : "2x"
     },
     {
       "idiom" : "universal",
-      "filename" : "white_hamburger-2.png",
+      "filename" : "cross-2.png",
       "scale" : "3x"
     }
   ],

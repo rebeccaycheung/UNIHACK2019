@@ -19,6 +19,7 @@
 		65166F1D223CC9E8008A9831 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65166F1C223CC9E8008A9831 /* CoreLocation.framework */; };
 		65166F1F223CDD88008A9831 /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65166F1E223CDD88008A9831 /* Restaurant.swift */; };
 		65166F21223CE2A2008A9831 /* RestaurantViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65166F20223CE2A2008A9831 /* RestaurantViewController.swift */; };
+		65E6BBE1223DAB7E00995F2A /* OverviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65E6BBE0223DAB7E00995F2A /* OverviewViewController.swift */; };
 		921E246D223D52F900545A57 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 921E246C223D52F900545A57 /* GoogleService-Info.plist */; };
 		921E246F223D5D1E00545A57 /* PointsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 921E246E223D5D1E00545A57 /* PointsViewController.swift */; };
 		921E2471223D715000545A57 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 921E2470223D715000545A57 /* ProfileViewController.swift */; };
@@ -62,6 +63,7 @@
 		65166F1C223CC9E8008A9831 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		65166F1E223CDD88008A9831 /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
 		65166F20223CE2A2008A9831 /* RestaurantViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantViewController.swift; sourceTree = "<group>"; };
+		65E6BBE0223DAB7E00995F2A /* OverviewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverviewViewController.swift; sourceTree = "<group>"; };
 		921E246C223D52F900545A57 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		921E246E223D5D1E00545A57 /* PointsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PointsViewController.swift; sourceTree = "<group>"; };
 		921E2470223D715000545A57 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
@@ -137,6 +139,7 @@
 				65166EB3223CAE53008A9831 /* HomeViewController.swift */,
 				9236C1D8223D1918001AF6AB /* PublicArt.json */,
 				65166EB5223CAE53008A9831 /* Main.storyboard */,
+				65E6BBE0223DAB7E00995F2A /* OverviewViewController.swift */,
 				92B5DCD4223D1EF200D4A286 /* SignUpViewController.swift */,
 				65166F1E223CDD88008A9831 /* Restaurant.swift */,
 				65166F19223CC630008A9831 /* MapViewController.swift */,
@@ -390,6 +393,7 @@
 			files = (
 				92B5DCD5223D1EF200D4A286 /* SignUpViewController.swift in Sources */,
 				65166F1F223CDD88008A9831 /* Restaurant.swift in Sources */,
+				65E6BBE1223DAB7E00995F2A /* OverviewViewController.swift in Sources */,
 				65166F21223CE2A2008A9831 /* RestaurantViewController.swift in Sources */,
 				921E246F223D5D1E00545A57 /* PointsViewController.swift in Sources */,
 				65166EB4223CAE53008A9831 /* HomeViewController.swift in Sources */,
