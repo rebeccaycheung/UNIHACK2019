@@ -707,7 +707,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <stackView opaque="NO" contentMode="scaleToFill" fixedFrame="YES" axis="vertical" spacing="47" translatesAutoresizingMaskIntoConstraints="NO" id="cBH-8m-cEf">
-                                <rect key="frame" x="107.99999999999999" y="270" width="199.5" height="290.5"/>
+                                <rect key="frame" x="108" y="270" width="199.5" height="290.5"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="525 CAFE" textAlignment="center" lineBreakMode="middleTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="S36-uB-lwU">
@@ -1260,8 +1260,8 @@
         </scene>
     </scenes>
     <resources>
-        <image name="more_options" width="256" height="256"/>
-        <image name="starbucks" width="137" height="91"/>
+        <image name="more_options" width="384" height="384"/>
+        <image name="starbucks" width="275" height="183"/>
     </resources>
     <inferredMetricsTieBreakers>
         <segue reference="9Eu-3n-m8J"/>

@@ -19,7 +19,9 @@ class HomeViewController: UIViewController {
         
         Auth.auth().signIn(withEmail: email.text ?? "", password: password.text ?? "") { (user, error) in
             if let error = error {
-                print("error \(error)")
+                let alert = UIAlertController(title: "Unable to login", message: "The username or password is incorrect", preferredStyle: UIAlertController.Style.alert)
+                alert.addAction(UIAlertAction(title: "OK", style: UIAlertAction.Style.default, handler: nil))
+                self.present(alert, animated: true, completion: nil)
             }
             else {
                 print("success")
