@@ -30,6 +30,13 @@ class MapViewController: UIViewController, CLLocationManagerDelegate {
     let regionRadius: CLLocationDistance = 1000
     var restaurants: [Restaurant] = []
     
+    
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        self.navigationController?.isNavigationBarHidden = true
+        
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
     

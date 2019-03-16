@@ -358,8 +358,8 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="laM-VU-hQ5">
-                                <rect key="frame" x="51" y="179" width="183" height="52"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="laM-VU-hQ5">
+                                <rect key="frame" x="65" y="179" width="349" height="52"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="33"/>
                                 <state key="normal" title="My Profile">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -368,9 +368,8 @@
                                     <segue destination="qRI-qi-NfU" kind="show" id="OIn-6d-6T5"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="m2B-fC-A4z">
-                                <rect key="frame" x="51" y="253" width="183" height="52"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="m2B-fC-A4z">
+                                <rect key="frame" x="65" y="253" width="349" height="52"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="33"/>
                                 <state key="normal" title="My Points">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -379,9 +378,8 @@
                                     <segue destination="lv7-l4-GNW" kind="show" id="Bwk-QW-W1K"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BHB-tB-gXy">
-                                <rect key="frame" x="51" y="325" width="217" height="52"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BHB-tB-gXy">
+                                <rect key="frame" x="65" y="325" width="349" height="52"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="33"/>
                                 <state key="normal" title="My Rewards">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -390,8 +388,8 @@
                                     <segue destination="ZtJ-of-3p7" kind="show" id="FKp-ac-7Bv"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Zgf-kw-beg">
-                                <rect key="frame" x="55" y="398" width="304" height="52"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Zgf-kw-beg">
+                                <rect key="frame" x="65" y="398" width="349" height="52"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="33"/>
                                 <state key="normal" title="Partnered Eateries">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -414,10 +412,21 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="0.79955952549999998" blue="0.37991290890000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <constraints>
-                            <constraint firstItem="oEd-Wr-UML" firstAttribute="trailing" secondItem="Zgf-kw-beg" secondAttribute="trailing" id="EjR-fV-2gC"/>
+                            <constraint firstItem="XMB-Iv-dvQ" firstAttribute="trailing" secondItem="m2B-fC-A4z" secondAttribute="trailing" id="Hlh-Ma-Pr8"/>
+                            <constraint firstItem="laM-VU-hQ5" firstAttribute="trailing" secondItem="XMB-Iv-dvQ" secondAttribute="trailing" id="ISf-Nw-ZPP"/>
                             <constraint firstItem="oEd-Wr-UML" firstAttribute="leading" secondItem="XMB-Iv-dvQ" secondAttribute="leading" constant="326" id="K2N-jZ-po9"/>
+                            <constraint firstItem="XMB-Iv-dvQ" firstAttribute="trailing" secondItem="BHB-tB-gXy" secondAttribute="trailing" id="TLS-w8-LpK"/>
+                            <constraint firstItem="laM-VU-hQ5" firstAttribute="leading" secondItem="XMB-Iv-dvQ" secondAttribute="leading" constant="65" id="XTA-Al-dlm"/>
+                            <constraint firstItem="Zgf-kw-beg" firstAttribute="leading" secondItem="XMB-Iv-dvQ" secondAttribute="leading" constant="65" id="Y3q-xo-g6Q"/>
+                            <constraint firstItem="BHB-tB-gXy" firstAttribute="leading" secondItem="XMB-Iv-dvQ" secondAttribute="leading" constant="65" id="bCv-Tb-zqX"/>
                             <constraint firstItem="laM-VU-hQ5" firstAttribute="top" secondItem="oEd-Wr-UML" secondAttribute="bottom" constant="77" id="lmh-XC-rPv"/>
+                            <constraint firstItem="Zgf-kw-beg" firstAttribute="top" secondItem="BHB-tB-gXy" secondAttribute="bottom" constant="21" id="ma8-Dc-Yzh"/>
+                            <constraint firstItem="BHB-tB-gXy" firstAttribute="top" secondItem="m2B-fC-A4z" secondAttribute="bottom" constant="20" id="nZq-gy-t0X"/>
+                            <constraint firstItem="XMB-Iv-dvQ" firstAttribute="trailing" secondItem="Zgf-kw-beg" secondAttribute="trailing" id="ph6-Wl-0wm"/>
+                            <constraint firstItem="laM-VU-hQ5" firstAttribute="top" secondItem="XMB-Iv-dvQ" secondAttribute="top" constant="135" id="xm8-1T-FMp"/>
+                            <constraint firstItem="m2B-fC-A4z" firstAttribute="leading" secondItem="XMB-Iv-dvQ" secondAttribute="leading" constant="65" id="y9Q-sd-W4d"/>
                             <constraint firstItem="oEd-Wr-UML" firstAttribute="top" secondItem="XMB-Iv-dvQ" secondAttribute="top" constant="28" id="z3U-HS-PA6"/>
+                            <constraint firstItem="m2B-fC-A4z" firstAttribute="top" secondItem="laM-VU-hQ5" secondAttribute="bottom" constant="22" id="zxQ-z3-5p5"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="XMB-Iv-dvQ"/>
                     </view>
@@ -1289,7 +1298,8 @@
         <image name="starbucks" width="275" height="183"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="bYS-Ag-0Ug"/>
+        <segue reference="Bwk-QW-W1K"/>
+        <segue reference="zon-f8-d3F"/>
         <segue reference="dmA-dR-eab"/>
     </inferredMetricsTieBreakers>
 </document>
