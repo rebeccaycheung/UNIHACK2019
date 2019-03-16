@@ -26,7 +26,6 @@ class HomeViewController: UIViewController {
                 self.performSegue(withIdentifier: "logInSegue", sender: self)
             }
         }
-        
     }
     
     override func viewDidLoad() {
