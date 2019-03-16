@@ -1,7 +1,7 @@
 # UNIHACK2019
 As you're all aware, there was a world-wide climate strike last Friday in over 100 countries. Where more than 1.5 million students took part in the strike with 150, 000 from Australia alone.
 
-These massive group of people went on strike because they feel disenfranchised and disempowered by the current society. They feel that they can't make a significant positive impact to climate change policy unless they all banded together in a concerted effort. There is a whole generation of people who are becoming more and more concious about climate change, which also includes being more selective about who they eat with or what brands they trust.
+These massive group of people went on strike because they feel disenfranchised and disempowered by the current society. They feel that they can't make a significant positive impact to climate change policy unless they all banded together in a concerted effort. There is a whole generation of people who are becoming more and more concious about climate change, which also includes being more selective about what businesses they support.
 
 ecoEats gives power back to the invidivuals by making it easier for them to eat in a more eco-friendly manner by rewaarding them for each purchase.
 
