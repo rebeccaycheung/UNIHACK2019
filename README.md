@@ -1,11 +1,16 @@
 # UNIHACK2019
-As you're all aware, there was a world-wide climate strike last Friday in over 100 countries. Where more than 1.5 million students took part in the strike with 150, 000 from Australia alone. It ranges from primary schoolers to secondary schoolers - so why did they go on strike?
+As you're all aware, there was a world-wide climate strike last Friday in over 100 countries. Where more than 1.5 million students took part in the strike with 150, 000 from Australia alone.
 
-It is because they feel disenfranchised and disempowered by the current system. They feel that they can't make a significant positive impact to climate change policy unless they all banded together in a concerted effort. Think about it, they can't even vote yet. There is a whole generation of customers who are becoming more and more concious about climate change, which also includes being more selective about who they shop with or what brands they trust.
+These massive group of people went on strike because they feel disenfranchised and disempowered by the current society. They feel that they can't make a significant positive impact to climate change policy unless they all banded together in a concerted effort. There is a whole generation of people who are becoming more and more concious about climate change, which also includes being more selective about what businesses they support.
 
-The app works by gamifying the user experience to encourage them to shop in a more eco-friendly manner by offering reward points for each purchase with eco-friendly restaurants or brands, therefore encouraging their decision to shop in a way which all together, will make a difference in society.
+ecoEats gives power back to the invidivuals by making it easier for them to eat in a more eco-friendly manner by rewaarding them for each purchase.
 
-This concerted effort will end up supporting businesses who are already eco-friendly as well as also encouraging businesses to be more sustainable if they want to tap into this emerging market or risk falling behind.
+We believe we all share this responsibility of being sustainable, particularly businesses, who are our primary targets. 
+
+By establishing partnerships with cafes and restaurants, they can increase their consumer base and reputation — all by leveraging our gamified platform. They are encouraged to be sustainable, fulfil KPIs and improve their business’ image all while fulfilling their corporate social responsibilites.
+
+This is a huge effort to support businesses already implementing sustainable practises, while also encouraging other businesses to enter this growing market.
+
 
 
 **Why would people support this start-up?**
