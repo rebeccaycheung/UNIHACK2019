@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		2A42FEB0C8F6372D1A086EB8 /* Pods_Unihack2019.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB4599BDD99D539BA04B6D2F /* Pods_Unihack2019.framework */; };
+		650A3385223DC5A3008B9E13 /* VeggieViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 650A3384223DC5A3008B9E13 /* VeggieViewController.swift */; };
+		650A3389223DC8F4008B9E13 /* LentilViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 650A3388223DC8F4008B9E13 /* LentilViewController.swift */; };
 		65166EB2223CAE53008A9831 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65166EB1223CAE53008A9831 /* AppDelegate.swift */; };
 		65166EB4223CAE53008A9831 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65166EB3223CAE53008A9831 /* HomeViewController.swift */; };
 		65166EB7223CAE53008A9831 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65166EB5223CAE53008A9831 /* Main.storyboard */; };
@@ -20,6 +22,7 @@
 		65166F1F223CDD88008A9831 /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65166F1E223CDD88008A9831 /* Restaurant.swift */; };
 		65166F21223CE2A2008A9831 /* RestaurantViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65166F20223CE2A2008A9831 /* RestaurantViewController.swift */; };
 		65E6BBE1223DAB7E00995F2A /* OverviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65E6BBE0223DAB7E00995F2A /* OverviewViewController.swift */; };
+		65E6BBE3223DC03100995F2A /* RewardsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65E6BBE2223DC03100995F2A /* RewardsViewController.swift */; };
 		921E246D223D52F900545A57 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 921E246C223D52F900545A57 /* GoogleService-Info.plist */; };
 		921E246F223D5D1E00545A57 /* PointsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 921E246E223D5D1E00545A57 /* PointsViewController.swift */; };
 		921E2471223D715000545A57 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 921E2470223D715000545A57 /* ProfileViewController.swift */; };
@@ -46,6 +49,8 @@
 
 /* Begin PBXFileReference section */
 		1AB3ABBC2C322D917B43BA14 /* Pods-Unihack2019.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Unihack2019.release.xcconfig"; path = "Target Support Files/Pods-Unihack2019/Pods-Unihack2019.release.xcconfig"; sourceTree = "<group>"; };
+		650A3384223DC5A3008B9E13 /* VeggieViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VeggieViewController.swift; sourceTree = "<group>"; };
+		650A3388223DC8F4008B9E13 /* LentilViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LentilViewController.swift; sourceTree = "<group>"; };
 		65166EAE223CAE53008A9831 /* Unihack2019.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Unihack2019.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		65166EB1223CAE53008A9831 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		65166EB3223CAE53008A9831 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
@@ -64,6 +69,7 @@
 		65166F1E223CDD88008A9831 /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
 		65166F20223CE2A2008A9831 /* RestaurantViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantViewController.swift; sourceTree = "<group>"; };
 		65E6BBE0223DAB7E00995F2A /* OverviewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverviewViewController.swift; sourceTree = "<group>"; };
+		65E6BBE2223DC03100995F2A /* RewardsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RewardsViewController.swift; sourceTree = "<group>"; };
 		921E246C223D52F900545A57 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		921E246E223D5D1E00545A57 /* PointsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PointsViewController.swift; sourceTree = "<group>"; };
 		921E2470223D715000545A57 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
@@ -139,6 +145,9 @@
 				65166EB3223CAE53008A9831 /* HomeViewController.swift */,
 				9236C1D8223D1918001AF6AB /* PublicArt.json */,
 				65166EB5223CAE53008A9831 /* Main.storyboard */,
+				650A3384223DC5A3008B9E13 /* VeggieViewController.swift */,
+				65E6BBE2223DC03100995F2A /* RewardsViewController.swift */,
+				650A3388223DC8F4008B9E13 /* LentilViewController.swift */,
 				65E6BBE0223DAB7E00995F2A /* OverviewViewController.swift */,
 				92B5DCD4223D1EF200D4A286 /* SignUpViewController.swift */,
 				65166F1E223CDD88008A9831 /* Restaurant.swift */,
@@ -391,11 +400,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				650A3389223DC8F4008B9E13 /* LentilViewController.swift in Sources */,
+				650A3385223DC5A3008B9E13 /* VeggieViewController.swift in Sources */,
 				92B5DCD5223D1EF200D4A286 /* SignUpViewController.swift in Sources */,
 				65166F1F223CDD88008A9831 /* Restaurant.swift in Sources */,
 				65E6BBE1223DAB7E00995F2A /* OverviewViewController.swift in Sources */,
 				65166F21223CE2A2008A9831 /* RestaurantViewController.swift in Sources */,
 				921E246F223D5D1E00545A57 /* PointsViewController.swift in Sources */,
+				65E6BBE3223DC03100995F2A /* RewardsViewController.swift in Sources */,
 				65166EB4223CAE53008A9831 /* HomeViewController.swift in Sources */,
 				65166F1A223CC630008A9831 /* MapViewController.swift in Sources */,
 				921E2471223D715000545A57 /* ProfileViewController.swift in Sources */,
@@ -576,6 +588,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = U9R3ZH5KD8;
 				INFOPLIST_FILE = Unihack2019/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -594,6 +607,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = U9R3ZH5KD8;
 				INFOPLIST_FILE = Unihack2019/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
