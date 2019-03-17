@@ -15,6 +15,26 @@ import FirebaseDatabase
 class VeggieViewController: UIViewController {
     
     @IBOutlet weak var vegiePoints: UILabel!
+    
+    @IBAction func one(_ sender: Any) {
+        let alert = UIAlertController(title: "Lootbox appears", message: "You have spent 200 amount of credits! :)", preferredStyle: UIAlertController.Style.alert)
+        alert.addAction(UIAlertAction(title: "Ok", style: UIAlertAction.Style.default, handler: nil))
+        self.present(alert, animated: true, completion: nil)
+        
+    }
+    
+    @IBAction func two(_ sender: Any) {
+        let alert = UIAlertController(title: "Lootbox appears", message: "You have spent 200 amount of credits! :)", preferredStyle: UIAlertController.Style.alert)
+        alert.addAction(UIAlertAction(title: "Ok", style: UIAlertAction.Style.default, handler: nil))
+        self.present(alert, animated: true, completion: nil)
+    }
+    
+    @IBAction func three(_ sender: Any) {
+        let alert = UIAlertController(title: "Lootbox appears", message: "You have spent 200 amount of credits! :)", preferredStyle: UIAlertController.Style.alert)
+        alert.addAction(UIAlertAction(title: "Ok", style: UIAlertAction.Style.default, handler: nil))
+        self.present(alert, animated: true, completion: nil)
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
